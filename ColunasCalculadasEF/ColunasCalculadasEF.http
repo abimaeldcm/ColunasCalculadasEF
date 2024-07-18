@@ -1,0 +1,6 @@
+@ColunasCalculadasEF_HostAddress = http://localhost:5296
+
+GET {{ColunasCalculadasEF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
